@@ -1,0 +1,11 @@
+.story {
+  &__pictures {
+    background-color: darksalmon;
+    grid-column: full-start/col-end 4;
+  }
+
+  &__content {
+    background-color: darkcyan;
+    grid-column: col-end 4/-1;
+  }
+}
