@@ -1,26 +1,25 @@
 import React from 'react';
-import logo from './logo.svg';
+import Header from "./components/Header";
 import './App.css';
+import SideBar from "./components/Sidebar";
+import Realtors from "./components/Realtors";
+import Story from "./components/Story";
+import Gallery from "./components/Gallery";
+import Footer from "./components/Footer";
+import Homes from "./components/Homes";
 
 const App: React.FC = () => {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+    return (
+        <div className={"container"}>
+            <SideBar/>
+            <Header/>
+            <Realtors/>
+            <Story/>
+            <Homes/>
+            <Gallery/>
+            <Footer/>
+        </div>
+    );
+};
 
 export default App;

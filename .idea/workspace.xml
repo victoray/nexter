@@ -1,21 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f4b2a56-1b0e-4525-ba66-797e219cf4d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/gal-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/gal-10.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/gal-11.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/gal-12.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/gal-13.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/gal-14.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/gal-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/gal-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/gal-4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/gal-5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/gal-6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/gal-7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/gal-8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/gal-9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/hero.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/house-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/house-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/house-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/house-4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/house-5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/house-6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/logo-bbc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/logo-bi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/logo-forbes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/logo-techcrunch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/realtor-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/realtor-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/realtor-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/sprite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/story-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/story-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/sass/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/sass/_features.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/sass/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/sass/_gallery.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/sass/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/sass/_homes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/sass/_realtors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/sass/_sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/sass/_story.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/sass/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ViiNJXOaQQiDcEgNqSbJRiDK7k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/statics" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/statics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f4b2a56-1b0e-4525-ba66-797e219cf4d4" name="Default Changelist" comment="" />
+      <created>1577742274572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577742274572</updated>
+      <workItem from="1577742275874" duration="2204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="412" y="320" key="EditFileWatcherDialog" timestamp="1577742614288">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="412" y="320" key="EditFileWatcherDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1577742614288" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1577745056270">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1577745056270" />
   </component>
 </project>
