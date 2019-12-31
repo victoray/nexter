@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3f4b2a56-1b0e-4525-ba66-797e219cf4d4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Features.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Features.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Homes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Homes.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statics/sass/_homes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/sass/_homes.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Gallery.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Gallery.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statics/sass/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/sass/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statics/sass/_gallery.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/sass/_gallery.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577742274572</updated>
-      <workItem from="1577742275874" duration="11879000" />
+      <workItem from="1577742275874" duration="18228000" />
     </task>
     <servers />
   </component>
