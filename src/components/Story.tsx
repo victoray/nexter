@@ -34,8 +34,8 @@ const Pictures = () => {
 const Story = () => {
     return (
         <>
-            <Pictures/>
             <Content/>
+            <Pictures/>
         </>
     );
 };

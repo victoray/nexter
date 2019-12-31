@@ -14,8 +14,8 @@ const App: React.FC = () => {
         <div className={"container"}>
             <SideBar/>
             <Header/>
-            <Features/>
             <Realtors/>
+            <Features/>
             <Story/>
             <Homes/>
             <Gallery/>

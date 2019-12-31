@@ -1,6 +1,5 @@
 .features {
   grid-column: center-start/center-end;
-  grid-row: 2/3;
 
   align-items: start;
 
@@ -9,6 +8,10 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
   grid-gap: 6rem;
+
+  @media only screen and (max-width: $bp-small) {
+    margin: 8rem 0;
+  }
 }
 
 .feature {
