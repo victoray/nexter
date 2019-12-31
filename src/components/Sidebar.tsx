@@ -1,9 +1,11 @@
 import React from "react";
 
-const SideBar = ()=> {
+const SideBar = () => {
     return (
         <div className="sidebar">
-            Sidebar
+            <button className="nav__button">
+                
+            </button>
         </div>
     );
 };
