@@ -1,5 +1,5 @@
 import React from "react";
-import sprite from "../statics/img/sprite.svg"
+import sprite from "../statics/img/sprite.svg";
 
 interface Feature {
     icon: string;
