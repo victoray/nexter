@@ -37,16 +37,15 @@ const Gallery = () => {
             <Image image={gal3} position={3}/>
             <Image image={gal4} position={4}/>
             <Image image={gal5} position={5}/>
-            <Image image={gal5} position={6}/>
-            <Image image={gal6} position={7}/>
-            <Image image={gal7} position={8}/>
-            <Image image={gal8} position={9}/>
-            <Image image={gal9} position={10}/>
-            <Image image={gal10} position={11}/>
-            <Image image={gal11} position={12}/>
-            <Image image={gal12} position={13}/>
-            <Image image={gal13} position={14}/>
-            <Image image={gal14} position={15}/>
+            <Image image={gal6} position={6}/>
+            <Image image={gal7} position={7}/>
+            <Image image={gal8} position={8}/>
+            <Image image={gal9} position={9}/>
+            <Image image={gal10} position={10}/>
+            <Image image={gal11} position={11}/>
+            <Image image={gal12} position={12}/>
+            <Image image={gal13} position={13}/>
+            <Image image={gal14} position={14}/>
         </section>
     );
 };
